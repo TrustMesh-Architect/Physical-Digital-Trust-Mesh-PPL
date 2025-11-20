@@ -1,5 +1,6 @@
 
-![banner](https://github.com/user-attachments/assets/b1225621-8d65-4cdb-bf29-78ed86f02f2c)
+![banner](https://github.com/user-attachments/assets/81d0309a-a0c1-4bbf-a3b8-cf35718e2bdd)
+
 
 # Physical-Digital Trust Mesh (PoC)
 
