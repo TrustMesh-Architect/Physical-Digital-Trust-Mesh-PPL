@@ -1,3 +1,6 @@
+
+![banner](https://github.com/user-attachments/assets/b1225621-8d65-4cdb-bf29-78ed86f02f2c)
+
 # Physical-Digital Trust Mesh (PoC)
 
 **Project:** Supply Chain Resilience via Physical Presence Lockout (PPL)  
